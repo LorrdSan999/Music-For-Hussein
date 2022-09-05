@@ -13,7 +13,7 @@ LOCKS_HELP = """
 
 الصلاحيات
 لعرض الصلاحيات التي يمكنك قفلها
-[𖠄 Dev Aloosh 𖠄](https://t.me/JEPTHON)
+[𖠄 Dev Aloosh 𖠄](https://t.me/O_GH0)
 """
 
 @JE313P.on(events.NewMessage(pattern="^[!?/]قفل ?(.*)"))
