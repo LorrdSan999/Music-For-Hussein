@@ -11,10 +11,10 @@ PM_START_TEXT = """
 ‣ **افضل بوت من ناحية المميزات**
 ‣ **يعتمد على مكتبة التيليثون لذلك يكون البوت سريع**!
 ‣ **اكتشف الباقي بنفسك**.
-‣ ** مطور السورس علوش @O_GH0
+‣ ** Dev : @UUQEO
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ✘ اضغط على الاسفل لعرض الاوامر الخاصه بي.
-[𖠄 Dev Aloosh 𖠄](https://t.me/OYURL)
+[𖠄 D҉e҉v҉ H҉S҉!O҉ 𖠄](https://t.me/UUQEO)
 """
 
 @JE313P.on(events.NewMessage(pattern="^[?!/]start$"))
@@ -42,7 +42,7 @@ async def _(event):
     if event.is_private:
        await event.edit(PM_START_TEXT.format(event.sender.first_name), buttons=[
         [Button.url("➕ اضغط هنا لاضافتي", f"https://t.me/{BOT_USERNAME}?startgroup=true")],
-        [Button.url("مطور السورس", "https://t.me/O_GH0")],
+        [Button.url("مطور السورس", "https://t.me/UUQEO")],
         [Button.url("الدعم", f"https://t.me/{Config.SUPPORT}"), Button.url("القناة", f"https://t.me/{Config.CHANNEL}")],
         [Button.inline("الاوامر", data="help")]])
        return
