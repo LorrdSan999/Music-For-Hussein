@@ -26,7 +26,7 @@ async def start(event):
              caption=PM_START_TEXT.format(event.sender.first_name), 
              buttons=[
         [Button.url("➕ اضغط هنا لأضافتي", f"https://t.me/{BOT_USERNAME}?startgroup=true")],
-        [Button.url("مطور السورس", "https://t.me/O_GH0")],
+        [Button.url("مطور السورس", "https://t.me/UUQEO")],
         [Button.url("الدعم", f"https://t.me/{Config.SUPPORT}"), Button.url("القناة", f"https://t.me/{Config.CHANNEL}")],
         [Button.inline("الاوامر", data="help")]])
        return
