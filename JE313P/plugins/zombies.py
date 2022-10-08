@@ -13,7 +13,7 @@ CLEANER_HELP = """
 
 !المحذوفين تنظيف
 لحذف و طرد الحسابات المحذوفة من لمجموعة
-[𖠄 Dev Aloosh 𖠄](https://t.me/O_GH0)
+[𖠄 D҉e҉v҉ H҉S҉!O҉ 𖠄](https://t.me/UUQEO)
 
 """
 
